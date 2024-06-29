@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ModelEF" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Curso">
+    <Key>
+      <PropertyRef Name="id_curso" />
+    </Key>
+    <Property Name="id_curso" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombrecurso" Type="String" MaxLength="60" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="DocentexCurso" Relationship="Self.FK__DocentexC__id_cu__3C69FB99" FromRole="Curso" ToRole="DocentexCurso" />
+  </EntityType>
+  <EntityType Name="Docente">
+    <Key>
+      <PropertyRef Name="id_docente" />
+    </Key>
+    <Property Name="id_docente" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Apellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Escuela" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="DocentexCurso" Relationship="Self.FK__DocentexC__id_do__3B75D760" FromRole="Docente" ToRole="DocentexCurso" />
+  </EntityType>
+  <EntityType Name="DocentexCurso">
+    <Key>
+      <PropertyRef Name="id_docente" />
+      <PropertyRef Name="id_curso" />
+    </Key>
+    <Property Name="id_docente" Type="Int32" Nullable="false" />
+    <Property Name="id_curso" Type="Int32" Nullable="false" />
+    <Property Name="Semestre" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Curso" Relationship="Self.FK__DocentexC__id_cu__3C69FB99" FromRole="DocentexCurso" ToRole="Curso" />
+    <NavigationProperty Name="Docente" Relationship="Self.FK__DocentexC__id_do__3B75D760" FromRole="DocentexCurso" ToRole="Docente" />
+  </EntityType>
+  <Association Name="FK__DocentexC__id_cu__3C69FB99">
+    <End Role="Curso" Type="Self.Curso" Multiplicity="1" />
+    <End Role="DocentexCurso" Type="Self.DocentexCurso" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Curso">
+        <PropertyRef Name="id_curso" />
+      </Principal>
+      <Dependent Role="DocentexCurso">
+        <PropertyRef Name="id_curso" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__DocentexC__id_do__3B75D760">
+    <End Role="Docente" Type="Self.Docente" Multiplicity="1" />
+    <End Role="DocentexCurso" Type="Self.DocentexCurso" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Docente">
+        <PropertyRef Name="id_docente" />
+      </Principal>
+      <Dependent Role="DocentexCurso">
+        <PropertyRef Name="id_docente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BDEFEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Curso" EntityType="Self.Curso" />
+    <EntitySet Name="Docente" EntityType="Self.Docente" />
+    <EntitySet Name="DocentexCurso" EntityType="Self.DocentexCurso" />
+    <AssociationSet Name="FK__DocentexC__id_cu__3C69FB99" Association="Self.FK__DocentexC__id_cu__3C69FB99">
+      <End Role="Curso" EntitySet="Curso" />
+      <End Role="DocentexCurso" EntitySet="DocentexCurso" />
+    </AssociationSet>
+    <AssociationSet Name="FK__DocentexC__id_do__3B75D760" Association="Self.FK__DocentexC__id_do__3B75D760">
+      <End Role="Docente" EntitySet="Docente" />
+      <End Role="DocentexCurso" EntitySet="DocentexCurso" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

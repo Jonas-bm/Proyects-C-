@@ -1,0 +1,12 @@
+E:\Others\Proyectos míos\Elaborados en C#\Conexion c# con BD\Funda-Primer-Proyect\Negocio\bin\Debug\Negocio.dll
+E:\Others\Proyectos míos\Elaborados en C#\Conexion c# con BD\Funda-Primer-Proyect\Negocio\bin\Debug\Negocio.pdb
+E:\Others\Proyectos míos\Elaborados en C#\Conexion c# con BD\Funda-Primer-Proyect\Negocio\bin\Debug\Datos.dll
+E:\Others\Proyectos míos\Elaborados en C#\Conexion c# con BD\Funda-Primer-Proyect\Negocio\bin\Debug\EntityFramework.dll
+E:\Others\Proyectos míos\Elaborados en C#\Conexion c# con BD\Funda-Primer-Proyect\Negocio\bin\Debug\Datos.pdb
+E:\Others\Proyectos míos\Elaborados en C#\Conexion c# con BD\Funda-Primer-Proyect\Negocio\bin\Debug\Datos.dll.config
+E:\Others\Proyectos míos\Elaborados en C#\Conexion c# con BD\Funda-Primer-Proyect\Negocio\bin\Debug\EntityFramework.xml
+E:\Others\Proyectos míos\Elaborados en C#\Conexion c# con BD\Funda-Primer-Proyect\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+E:\Others\Proyectos míos\Elaborados en C#\Conexion c# con BD\Funda-Primer-Proyect\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+E:\Others\Proyectos míos\Elaborados en C#\Conexion c# con BD\Funda-Primer-Proyect\Negocio\obj\Debug\Negocio.csproj.Up2Date
+E:\Others\Proyectos míos\Elaborados en C#\Conexion c# con BD\Funda-Primer-Proyect\Negocio\obj\Debug\Negocio.dll
+E:\Others\Proyectos míos\Elaborados en C#\Conexion c# con BD\Funda-Primer-Proyect\Negocio\obj\Debug\Negocio.pdb

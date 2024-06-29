@@ -1,0 +1,26 @@
+créate database dbinstituto
+
+
+create table Docente(
+	id_docente int IDENTITY(1,1) PRIMARY KEY NOT NULL,
+	Nombre varchar(50) not null,
+	Apellido varchar(50) not null,
+	Escuela varchar(50) not null
+)
+GO
+
+create table Curso(
+	id_curso int IDENTITY(1,1) PRIMARY KEY NOT NULL,
+	Nombrecurso varchar(60) NOT NULL,
+)
+GO
+
+create table DocentexCurso(
+	id_docente int NOT NULL,
+	id_curso int NOT NULL,
+	Semestre varchar(10) NOT NULL,
+	PRIMARY KEY(id_docente,id_curso),
+	FOREIGN KEY(id_docente) REFERENCES Docente(id_docente),
+	FOREIGN KEY(id_curso) REFERENCES Curso(id_curso)
+)
+GO

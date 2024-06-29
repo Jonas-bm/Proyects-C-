@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Others\\Proyectos m\u00EDos\\Elaborados en C#\\Conexion c# con BD\\Funda-Primer-Proyect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A47C58BB-81C3-4853-AE11-2225DEC5E2F1}|Presentacion\\Presentacion.csproj|e:\\others\\proyectos m\u00EDos\\elaborados en c#\\conexion c# con bd\\funda-primer-proyect\\presentacion\\formdocentexcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47C58BB-81C3-4853-AE11-2225DEC5E2F1}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formdocentexcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47C58BB-81C3-4853-AE11-2225DEC5E2F1}|Presentacion\\Presentacion.csproj|e:\\others\\proyectos m\u00EDos\\elaborados en c#\\conexion c# con bd\\funda-primer-proyect\\presentacion\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A47C58BB-81C3-4853-AE11-2225DEC5E2F1}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47C58BB-81C3-4853-AE11-2225DEC5E2F1}|Presentacion\\Presentacion.csproj|e:\\others\\proyectos m\u00EDos\\elaborados en c#\\conexion c# con bd\\funda-primer-proyect\\presentacion\\formcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47C58BB-81C3-4853-AE11-2225DEC5E2F1}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577F1039-5EDB-4707-83B8-2AEB0A25844A}|Datos\\Datos.csproj|E:\\Others\\Proyectos m\u00EDos\\Elaborados en C#\\Conexion c# con BD\\Funda-Primer-Proyect\\datos\\docentexcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577F1039-5EDB-4707-83B8-2AEB0A25844A}|Datos\\Datos.csproj|solutionrelative:datos\\docentexcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47C58BB-81C3-4853-AE11-2225DEC5E2F1}|Presentacion\\Presentacion.csproj|e:\\others\\proyectos m\u00EDos\\elaborados en c#\\conexion c# con bd\\funda-primer-proyect\\presentacion\\formdocentexcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A47C58BB-81C3-4853-AE11-2225DEC5E2F1}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formdocentexcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577F1039-5EDB-4707-83B8-2AEB0A25844A}|Datos\\Datos.csproj|e:\\others\\proyectos m\u00EDos\\elaborados en c#\\conexion c# con bd\\funda-primer-proyect\\datos\\ddocentexcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577F1039-5EDB-4707-83B8-2AEB0A25844A}|Datos\\Datos.csproj|solutionrelative:datos\\ddocentexcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA2A9D1-28D9-4438-935B-137C7A2FB4A8}|Negocio\\Negocio.csproj|e:\\others\\proyectos m\u00EDos\\elaborados en c#\\conexion c# con bd\\funda-primer-proyect\\negocio\\ndocentexcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA2A9D1-28D9-4438-935B-137C7A2FB4A8}|Negocio\\Negocio.csproj|solutionrelative:negocio\\ndocentexcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47C58BB-81C3-4853-AE11-2225DEC5E2F1}|Presentacion\\Presentacion.csproj|E:\\Others\\Proyectos m\u00EDos\\Elaborados en C#\\Conexion c# con BD\\Funda-Primer-Proyect\\presentacion\\formdocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A47C58BB-81C3-4853-AE11-2225DEC5E2F1}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formdocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577F1039-5EDB-4707-83B8-2AEB0A25844A}|Datos\\Datos.csproj|E:\\Others\\Proyectos m\u00EDos\\Elaborados en C#\\Conexion c# con BD\\Funda-Primer-Proyect\\datos\\ddocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577F1039-5EDB-4707-83B8-2AEB0A25844A}|Datos\\Datos.csproj|solutionrelative:datos\\ddocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 216,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormCurso.cs",
+              "DocumentMoniker": "E:\\Others\\Proyectos m\u00EDos\\Elaborados en C#\\Conexion c# con BD\\Funda-Primer-Proyect\\Presentacion\\FormCurso.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormCurso.cs",
+              "ToolTip": "E:\\Others\\Proyectos m\u00EDos\\Elaborados en C#\\Conexion c# con BD\\Funda-Primer-Proyect\\Presentacion\\FormCurso.cs",
+              "RelativeToolTip": "Presentacion\\FormCurso.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwCUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:37:58.624Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Others\\Proyectos m\u00EDos\\Elaborados en C#\\Conexion c# con BD\\Funda-Primer-Proyect\\Presentacion\\FormMain.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormMain.cs",
+              "ToolTip": "E:\\Others\\Proyectos m\u00EDos\\Elaborados en C#\\Conexion c# con BD\\Funda-Primer-Proyect\\Presentacion\\FormMain.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\FormMain.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:53:50.743Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormDocentexCurso.cs",
+              "DocumentMoniker": "E:\\Others\\Proyectos m\u00EDos\\Elaborados en C#\\Conexion c# con BD\\Funda-Primer-Proyect\\Presentacion\\FormDocentexCurso.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormDocentexCurso.cs",
+              "ToolTip": "E:\\Others\\Proyectos m\u00EDos\\Elaborados en C#\\Conexion c# con BD\\Funda-Primer-Proyect\\Presentacion\\FormDocentexCurso.cs",
+              "RelativeToolTip": "Presentacion\\FormDocentexCurso.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAA7wJ0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T22:36:12.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocentexCurso.cs",
+              "DocumentMoniker": "E:\\Others\\Proyectos m\u00EDos\\Elaborados en C#\\Conexion c# con BD\\Funda-Primer-Proyect\\Datos\\DocentexCurso.cs",
+              "RelativeDocumentMoniker": "Datos\\DocentexCurso.cs",
+              "ToolTip": "E:\\Others\\Proyectos m\u00EDos\\Elaborados en C#\\Conexion c# con BD\\Funda-Primer-Proyect\\Datos\\DocentexCurso.cs",
+              "RelativeToolTip": "Datos\\DocentexCurso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T02:04:30.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormDocentexCurso.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Others\\Proyectos m\u00EDos\\Elaborados en C#\\Conexion c# con BD\\Funda-Primer-Proyect\\Presentacion\\FormDocentexCurso.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormDocentexCurso.cs",
+              "ToolTip": "E:\\Others\\Proyectos m\u00EDos\\Elaborados en C#\\Conexion c# con BD\\Funda-Primer-Proyect\\Presentacion\\FormDocentexCurso.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\FormDocentexCurso.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T22:24:06.172Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DDocentexCurso.cs",
+              "DocumentMoniker": "E:\\Others\\Proyectos m\u00EDos\\Elaborados en C#\\Conexion c# con BD\\Funda-Primer-Proyect\\Datos\\DDocentexCurso.cs",
+              "RelativeDocumentMoniker": "Datos\\DDocentexCurso.cs",
+              "ToolTip": "E:\\Others\\Proyectos m\u00EDos\\Elaborados en C#\\Conexion c# con BD\\Funda-Primer-Proyect\\Datos\\DDocentexCurso.cs",
+              "RelativeToolTip": "Datos\\DDocentexCurso.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwCgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T23:05:33.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NDocentexCurso.cs",
+              "DocumentMoniker": "E:\\Others\\Proyectos m\u00EDos\\Elaborados en C#\\Conexion c# con BD\\Funda-Primer-Proyect\\Negocio\\NDocentexCurso.cs",
+              "RelativeDocumentMoniker": "Negocio\\NDocentexCurso.cs",
+              "ToolTip": "E:\\Others\\Proyectos m\u00EDos\\Elaborados en C#\\Conexion c# con BD\\Funda-Primer-Proyect\\Negocio\\NDocentexCurso.cs",
+              "RelativeToolTip": "Negocio\\NDocentexCurso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T23:14:38.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormDocente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Others\\Proyectos m\u00EDos\\Elaborados en C#\\Conexion c# con BD\\Funda-Primer-Proyect\\Presentacion\\FormDocente.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormDocente.cs",
+              "ToolTip": "E:\\Others\\Proyectos m\u00EDos\\Elaborados en C#\\Conexion c# con BD\\Funda-Primer-Proyect\\Presentacion\\FormDocente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\FormDocente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:23:18.284Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DDocente.cs",
+              "DocumentMoniker": "E:\\Others\\Proyectos m\u00EDos\\Elaborados en C#\\Conexion c# con BD\\Funda-Primer-Proyect\\Datos\\DDocente.cs",
+              "RelativeDocumentMoniker": "Datos\\DDocente.cs",
+              "ToolTip": "E:\\Others\\Proyectos m\u00EDos\\Elaborados en C#\\Conexion c# con BD\\Funda-Primer-Proyect\\Datos\\DDocente.cs",
+              "RelativeToolTip": "Datos\\DDocente.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAowEYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:33:19.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

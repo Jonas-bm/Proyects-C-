@@ -1,0 +1,12 @@
+E:\Others\Proyectos míos\Elaborados en C#\Conexion c# con BD\Funda-Primer-Proyect\Datos\bin\Debug\Datos.dll.config
+E:\Others\Proyectos míos\Elaborados en C#\Conexion c# con BD\Funda-Primer-Proyect\Datos\bin\Debug\Datos.dll
+E:\Others\Proyectos míos\Elaborados en C#\Conexion c# con BD\Funda-Primer-Proyect\Datos\bin\Debug\Datos.pdb
+E:\Others\Proyectos míos\Elaborados en C#\Conexion c# con BD\Funda-Primer-Proyect\Datos\bin\Debug\EntityFramework.dll
+E:\Others\Proyectos míos\Elaborados en C#\Conexion c# con BD\Funda-Primer-Proyect\Datos\bin\Debug\EntityFramework.SqlServer.dll
+E:\Others\Proyectos míos\Elaborados en C#\Conexion c# con BD\Funda-Primer-Proyect\Datos\bin\Debug\EntityFramework.xml
+E:\Others\Proyectos míos\Elaborados en C#\Conexion c# con BD\Funda-Primer-Proyect\Datos\bin\Debug\EntityFramework.SqlServer.xml
+E:\Others\Proyectos míos\Elaborados en C#\Conexion c# con BD\Funda-Primer-Proyect\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+E:\Others\Proyectos míos\Elaborados en C#\Conexion c# con BD\Funda-Primer-Proyect\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+E:\Others\Proyectos míos\Elaborados en C#\Conexion c# con BD\Funda-Primer-Proyect\Datos\obj\Debug\Datos.csproj.Up2Date
+E:\Others\Proyectos míos\Elaborados en C#\Conexion c# con BD\Funda-Primer-Proyect\Datos\obj\Debug\Datos.dll
+E:\Others\Proyectos míos\Elaborados en C#\Conexion c# con BD\Funda-Primer-Proyect\Datos\obj\Debug\Datos.pdb
